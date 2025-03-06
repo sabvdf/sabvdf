@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![roadmap.sh](https://roadmap.sh/card/wide/67c9683bfe4b7df03b92b7fb?variant=dark&roadmaps=game-developer%2Cux-design%2Cdatastructures-and-algorithms%2Ccomputer-science)](https://roadmap.sh)
 <!--
 **sabvdf/sabvdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
